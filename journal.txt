@@ -1,0 +1,16 @@
+20130901sun
+    21h32 "Something new for thirty days". I enjoyed that TED talk by Matt Cuts, and heard Ben Orenstein on the Giant Robots podcast this morning saying that if you're looking for a (better) job you should write a blog post every day.
+    21h35 I am not looking for a (better) job at the moment, but I always figured I'd like to write a blog.
+    21h37 My current career goal is as follows : I'd like to learn how to program well and then start teaching what I've learned.
+    21h37 I may as well try and start sharing what I have learned, so I'll try to write a small post each day in September.
+    22h20 wrote my `g;` post, next let's publish that in a new repo on github
+
+
+
+
+
+ideas : 
+g;
+Ctrl-n and Ctrl-p!!
+Ctrl-D
+J
