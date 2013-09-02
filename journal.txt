@@ -4,13 +4,30 @@
     21h37 My current career goal is as follows : I'd like to learn how to program well and then start teaching what I've learned.
     21h37 I may as well try and start sharing what I have learned, so I'll try to write a small post each day in September.
     22h20 wrote my `g;` post, next let's publish that in a new repo on github
+    22h47 it's up! https://github.com/nicoder/blog/blob/master/2013/09/01/g_semicolon.md
+
+0902mon
+    21h43 Second day, some vim commands again : Ctrl-n and Ctrl-p
+    22h16 let's read it one more time and commit/push
 
 
 
 
 
 ideas : 
-g;
 Ctrl-n and Ctrl-p!!
 Ctrl-D
 J
+gt and gT (along with :tabedit and :tabclose) (took me a while to use tabs in vim)
+touch typing
+Ctrl-V to change more than one line at a time in the same way
+macros
+q/
+cw (along with n and .)
+== (for example =i{ to indent body of a function)
+ci"
+%
+/
+f et t (et conjonction avec d, c, etc)
+gUw
+G and gg
