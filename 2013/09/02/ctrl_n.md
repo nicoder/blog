@@ -11,7 +11,7 @@ before.
 
 (in this case think `n` for next, `p` for previous).
 
-So it's a 'dumb' kind of automcompletion, not 'intellisense', but I find it
+So it's a 'dumb' kind of autocompletion, not 'intellisense', but I find it
 very useful.
 
 From what I have experienced Vim looks for matches in the opened buffers, but
@@ -21,7 +21,7 @@ option.
 A form of autocompletion I rarely use but find pretty cool anyway is line
 autocompletion.
 Start typing a few characters on a line and `Ctrl-X Ctrl-L` will fill the line
-to match another line starting with the same characters
+to match another line starting with the same characters.
 See `:help i_CTRL-X_CTRL-L`.
 
 Say I already have a line of javascript somewhere in my opened buffers that
