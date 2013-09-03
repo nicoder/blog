@@ -9,14 +9,16 @@
 0902mon
     21h43 Second day, some vim commands again : Ctrl-n and Ctrl-p
     22h16 let's read it one more time and commit/push
+    22h31 git push origin master
 
-
+0903tue
+    21h14 third day, another vim command : Ctrl-D
+    21h22 fun, i spend more time reading the help file than writing my daily post.
 
 
 
 ideas : 
-Ctrl-n and Ctrl-p!!
-Ctrl-D
+Ctrl-D (would do M and then Ctrl-F/B, but Ctrl-D and Ctrl-U does that)
 J
 gt and gT (along with :tabedit and :tabclose) (took me a while to use tabs in vim)
 touch typing
@@ -30,4 +32,9 @@ ci"
 /
 f et t (et conjonction avec d, c, etc)
 gUw
-G and gg
+G and gg (example : dgg, dG)
+u et Ctrl-R
+:g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
+C (e.g changing elseif into else)
+zz, zt and zb
+:only to keep just one window open when split
