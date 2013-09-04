@@ -15,11 +15,12 @@
     21h14 third day, another vim command : Ctrl-D
     21h22 fun, i spend more time reading the help file than writing my daily post.
 
+0904wed
+    21h39 fourth day, J
 
 
 ideas : 
-Ctrl-D (would do M and then Ctrl-F/B, but Ctrl-D and Ctrl-U does that)
-J
+J (join two lines or whole visual selection)
 gt and gT (along with :tabedit and :tabclose) (took me a while to use tabs in vim)
 touch typing
 Ctrl-V to change more than one line at a time in the same way
@@ -38,3 +39,7 @@ u et Ctrl-R
 C (e.g changing elseif into else)
 zz, zt and zb
 :only to keep just one window open when split
+:sort
+:tabedit %:h/ + Tab
+Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
+I, A
