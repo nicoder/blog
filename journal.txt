@@ -18,16 +18,19 @@
 0904wed
     21h39 fourth day, J
 
+0905thu
+    21h24 fifth day
+    21h25 gt (tabs in vim)
+    21h29 I wonder if any one other then me will ever get something out of these blog posts
 
 ideas : 
-J (join two lines or whole visual selection)
 gt and gT (along with :tabedit and :tabclose) (took me a while to use tabs in vim)
 touch typing
 Ctrl-V to change more than one line at a time in the same way
 macros
 q/
 cw (along with n and .)
-== (for example =i{ to indent body of a function)
+== (for example =i{ to indent body of a function or if statement)
 ci"
 %
 /
@@ -43,3 +46,8 @@ zz, zt and zb
 :tabedit %:h/ + Tab
 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
 I, A
+. (dot commant). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
+split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
+{ and } to move
+gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
+* to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search quen do /<Up> or q/)
