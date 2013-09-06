@@ -23,8 +23,15 @@
     21h25 gt (tabs in vim)
     21h29 I wonder if any one other then me will ever get something out of these blog posts
 
+0906fri
+    21h52 sixth post, not a vim command for once!
+    21h52 still linked to vim in a way, and a more general lesson : when
+    21h53 something annoys you, try and find a way to understand / work around
+    it / make it disappear
+
+
+
 ideas : 
-gt and gT (along with :tabedit and :tabclose) (took me a while to use tabs in vim)
 touch typing
 Ctrl-V to change more than one line at a time in the same way
 macros
@@ -51,3 +58,6 @@ split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
 { and } to move
 gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
 * to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search quen do /<Up> or q/)
+:windo diffthis
+word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
+w and b
