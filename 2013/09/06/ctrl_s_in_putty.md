@@ -31,7 +31,7 @@ learn how to stop `Ctrl-S` from 'freezing' my putty.
 I reread the note a couple of times, and today when I hit `Ctrl-S` by accident
 instead of `Ctrl-C` ìn the terminal, I finally googled `"hitting ctrl s in putty"`.
 Read a blog post (the first hit :
-http://raamdev.com/2007/recovering-from-ctrls-in-putty/), and immedidately had
+http://raamdev.com/2007/recovering-from-ctrls-in-putty/), and immediately had
 an explanation and a workaround :
 
 `Ctrl-Q` 'unfreezes' putty.
