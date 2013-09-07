@@ -1,7 +1,7 @@
 # Touch typing
 
-I read this advice in Drew Neil's 'Practical Vim' book, paraphrasing:
-If you want to be good at using Vim, you had better know how to touch type.
+I read this advice in Drew Neil's 'Practical Vim' book: If you want to be good
+at using Vim, you had better know how to touch type.
 
 It makes a lot of sense. Vim's commands can make editing text super fast (and
 fun!).
