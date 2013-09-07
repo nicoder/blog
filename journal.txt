@@ -29,10 +29,11 @@
     21h53 something annoys you, try and find a way to understand / work around
     it / make it disappear
 
+0907sam
+    21h32 seventh post : touch typing
 
 
 ideas : 
-touch typing
 Ctrl-V to change more than one line at a time in the same way
 macros
 q/
@@ -61,3 +62,5 @@ gv to get the same visual selection (example, Ctrl-v to move a set of lines to t
 :windo diffthis
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
+:reg
+podcasts i listen to
