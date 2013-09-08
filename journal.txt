@@ -32,6 +32,9 @@
 0907sam
     21h32 seventh post : touch typing
 
+0908dim
+    21h21 eight post : Ctrl-V
+
 
 ideas : 
 Ctrl-V to change more than one line at a time in the same way
