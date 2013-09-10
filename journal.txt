@@ -38,8 +38,12 @@
 0909mon
     21h20 ninth post: vim macros
 
+0910tue
+    21h16 tenth post: q/
+    21h51 done.
+
+
 ideas : 
-q/
 cw (along with n and .)
 == (for example =i{ to indent body of a function or if statement)
 ci"
