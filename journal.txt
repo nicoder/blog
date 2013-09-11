@@ -42,15 +42,18 @@
     21h16 tenth post: q/
     21h51 done.
 
+0911wed
+    21h28 eleventh post: cw (along with /, n and .)
+    21h49 i'm using http://dillinger.io/ to preview the markdown before commiting
+
+
+
 
 ideas : 
-cw (along with n and .)
 == (for example =i{ to indent body of a function or if statement)
-ci"
 %
 /
 f et t (et conjonction avec d, c, etc)
-gUw
 G and gg (example : dgg, dG)
 u et Ctrl-R
 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
@@ -60,7 +63,7 @@ zz, zt and zb
 :sort
 :tabedit %:h/ + Tab
 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
-I, A
+I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
 . (dot commant). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
 split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
 { and } to move
@@ -77,5 +80,6 @@ list() in php to 'destructure' array returned by function
 php use warnings!
 code review
 :b
-Ctrl-A to go to begining of the line in shell. alt-b and alt-f to go a word back/forward
 editing a macro (qA and "ap/edit/"ax)
+lowercase a word with guw
+command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
