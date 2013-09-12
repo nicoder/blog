@@ -46,11 +46,13 @@
     21h28 eleventh post: cw (along with /, n and .)
     21h49 i'm using http://dillinger.io/ to preview the markdown before commiting
 
+0912thu
+    21h03 twelth post: == (indenting in vim)
+    21h49 lots of cool stuff in motion.txt
 
 
 
 ideas : 
-== (for example =i{ to indent body of a function or if statement)
 %
 /
 f et t (et conjonction avec d, c, etc)
