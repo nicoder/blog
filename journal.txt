@@ -50,16 +50,17 @@
     21h03 twelth post: == (indenting in vim)
     21h49 lots of cool stuff in motion.txt
 
+0913fri
+    17h59 thirteenth post : %
 
 
 ideas : 
-%
 /
 f et t (et conjonction avec d, c, etc)
 G and gg (example : dgg, dG)
 u et Ctrl-R
 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
-C (e.g changing elseif into else)
+C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
 zz, zt and zb
 :only to keep just one window open when split
 :sort
