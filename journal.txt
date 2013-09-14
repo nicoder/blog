@@ -53,10 +53,10 @@
 0913fri
     17h59 thirteenth post : %
 
+0914sat
+    20h40 fourteenth post: f and t
 
 ideas : 
-/
-f et t (et conjonction avec d, c, etc)
 G and gg (example : dgg, dG)
 u et Ctrl-R
 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
@@ -86,3 +86,5 @@ code review
 editing a macro (qA and "ap/edit/"ax)
 lowercase a word with guw
 command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
+0 to go to the beginning of the line. ^ to go to the first non whitespace character of the line
+/
