@@ -56,8 +56,10 @@
 0914sat
     20h40 fourteenth post: f and t
 
+0915sun
+    G and gg
+
 ideas : 
-G and gg (example : dgg, dG)
 u et Ctrl-R
 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
 C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
