@@ -62,9 +62,10 @@
 0916mon
     u and Ctrl-R
 
+0917tue
+    18h07 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
 
 ideas : 
-:g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
 C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
 zz, zt and zb
 :only to keep just one window open when split
@@ -93,3 +94,6 @@ lowercase a word with guw
 command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
 0 to go to the beginning of the line. ^ to go to the first non whitespace character of the line
 /
+mappings (for example add a space before and after the character under the cursor)
+Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
+:! to launch a system command / another program. Ex: !phpunit %, !phpcs %
