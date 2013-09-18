@@ -65,8 +65,11 @@
 0917tue
     18h07 :g/MY SEARCH STRING to show only those lines. e.g. :g/function => function definitions in php file
 
+0918wed
+    22h12 C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
+
+
 ideas : 
-C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
 zz, zt and zb
 :only to keep just one window open when split
 :sort
@@ -97,3 +100,4 @@ command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f
 mappings (for example add a space before and after the character under the cursor)
 Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
+differences between $a + $b and array_merge($a, $b) in php
