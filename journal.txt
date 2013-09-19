@@ -68,9 +68,10 @@
 0918wed
     22h12 C (e.g changing elseif into else, or see that the last 3 words of the line should be changed => 3bC)
 
+0919thu
+    22h20 zz, zt and zb
 
 ideas : 
-zz, zt and zb
 :only to keep just one window open when split
 :sort
 :tabedit %:h/ + Tab
@@ -80,7 +81,7 @@ I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
 split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
 { and } to move
 gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
-* to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search quen do /<Up> or q/)
+* to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search when do /<Up> or q/)
 :windo diffthis
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
@@ -101,3 +102,4 @@ mappings (for example add a space before and after the character under the curso
 Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
 differences between $a + $b and array_merge($a, $b) in php
+:tabclose : moyen de voir ensuite le tab de gauche au lieu de celui de droite?
