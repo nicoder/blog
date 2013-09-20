@@ -71,8 +71,10 @@
 0919thu
     22h20 zz, zt and zb
 
+0920fri
+    23h10 :only to keep just one window open when split
+
 ideas : 
-:only to keep just one window open when split
 :sort
 :tabedit %:h/ + Tab
 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
@@ -103,3 +105,7 @@ Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
 differences between $a + $b and array_merge($a, $b) in php
 :tabclose : moyen de voir ensuite le tab de gauche au lieu de celui de droite?
+how to paste a class name for example when searching with :Ack in the Vim command line
+advantages of (loosely) limiting line width to 80 chars (diffs, more readable, forces to use variables (with intention revealing name)). drawbacks: more screen height used => but then pushes you to extract functions
+open file in same directory as current with :e %:h/filename (or :tabedit %:h/filename)
+:w filename.txt to save a visual selection to a file
