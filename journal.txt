@@ -74,8 +74,13 @@
 0920fri
     23h10 :only to keep just one window open when split
 
+0921sat
+    22h14 :sort
+
+
+
+
 ideas : 
-:sort
 :tabedit %:h/ + Tab
 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
 I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
