@@ -80,9 +80,13 @@
 0922sun
     22h29 :tabedit %:h/ + Tab
 
+0923mon
+    21h49 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
+
+
+
 
 ideas : 
-Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
 I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
 . (dot commant). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
 split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
