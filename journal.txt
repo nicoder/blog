@@ -83,13 +83,14 @@
 0923mon
     21h49 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
 
-0924tue
+0924tue (or rather 0925wed)
     04h49 I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
 
+0925wed
+    22h26 the dot command.
 
 
 ideas : 
-. (dot command). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
 split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
 { and } to move
 gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
@@ -110,7 +111,7 @@ lowercase a word with guw
 command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
 0 to go to the beginning of the line. ^ to go to the first non whitespace character of the line
 /
-mappings (for example add a space before and after the character under the cursor)
+mappings (for example add a space before and after the character under the cursor. or my ,j and ,k to do page-down page-up in the next split window)
 Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
 differences between $a + $b and array_merge($a, $b) in php
