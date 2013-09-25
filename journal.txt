@@ -83,12 +83,13 @@
 0923mon
     21h49 Ctrl-A et Ctrl-x, with count (e.g. to add 8 to three numbers)
 
+0924tue
+    04h49 I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
 
 
 
 ideas : 
-I, A (for example comment a couple of lines : I//<Esc>j.j.j.j.
-. (dot commant). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
+. (dot command). For example : `A[add something at the end of a line)` then go to another line and then `.` will add the same text at the end of the line
 split windows : vs, Ctrl-W W, sp, Ctrl-W j k l, :q
 { and } to move
 gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
@@ -117,3 +118,4 @@ differences between $a + $b and array_merge($a, $b) in php
 how to paste a class name for example when searching with :Ack in the Vim command line
 advantages of (loosely) limiting line width to 80 chars (diffs, more readable, forces to use variables (with intention revealing name)). drawbacks: more screen height used => but then pushes you to extract functions
 :w filename.txt to save a visual selection to a file
+color scheme and font (to force me to get better ones)
