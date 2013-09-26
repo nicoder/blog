@@ -11,7 +11,7 @@ I often like to have two split windows:
 - my test file on the left
 - the code on the right
 
-Sometimes I find it even useful to have two split windows displaying different
+Sometimes I even find it useful to have two split windows displaying different
 parts of the same file :)
 
 To that effect I recently added these mappings to my vimrc:
