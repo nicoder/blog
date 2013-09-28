@@ -97,10 +97,12 @@
     22h37 { and } to move
     05h58 oops, fell asleep.
 
+0928sat
+    20h17 gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
+
 
 
 ideas : 
-gv to get the same visual selection (example, Ctrl-v to move a set of lines to the right, than gv and 10j to get 10 more lines and move once more)
 * to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search when do /<Up> or q/)
 :windo diffthis
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
