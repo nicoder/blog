@@ -102,7 +102,10 @@
 
 0929sun
     17h56 * to go to the next occurrence of the word, # to go to the previous (notice the word delimiters in the search when do /<Up> or q/)
+    18h15 cool, used fugitive to commit this. Used :Gstatus, :GCommit, :Git push
 
+0930mon
+    20h25 case insensitive search with \c
 
 ideas : 
 :windo diffthis

@@ -17,6 +17,5 @@ of the screen:
 
 `/\<Vim\>`
 
-
 - `\<` marks the beginning of a word
 - `\>` marks the end of a word
