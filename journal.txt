@@ -106,6 +106,14 @@
 
 0930mon
     20h25 case insensitive search with \c
+    21h00 it's been nice writing something each day (more or less) for thirty days.
+    21h00 i installed ctrlp and enjoy it at work, re-learnt how to do case insensitive search in vim (hopefully it will stick), 
+    21h01 learnt `<Ctrl-W>o` is faster than :only
+    21h02 and in general got to read the vim help a lot more.
+    21h02 oh and started using fugitive :) really like :Gstatus for the moment.
+
+
+
 
 ideas : 
 :windo diffthis
