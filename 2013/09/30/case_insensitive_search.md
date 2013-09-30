@@ -10,10 +10,10 @@ I like having case sensitive search by default.
 
 If you prefer case insensitive by default, you can type `:set ignorecase`.
 
-In that case `/vim` matches both `vim` and `Vim`.
+In that case (no pun intended) `/vim` matches both `vim` and `Vim`.
 
-There is a similar way to ask for case sensitivity in that case : `/vim\C` will
-match only `vim`.
+There is a similar way to ask for case sensitivity in that case: `/vim\C` will
+only match `vim`.
 
 Finally when `ignorecase` is set, `:set smartcase` does case-insensitive search
 if the search pattern is in lowercase, but case sensitive if it contains an
