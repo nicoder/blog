@@ -112,6 +112,9 @@
     21h02 and in general got to read the vim help a lot more.
     21h02 oh and started using fugitive :) really like :Gstatus for the moment.
 
+1101fri
+    22h42 let's do some more.
+    22h42 :windo diffthis
 
 
 
@@ -144,3 +147,5 @@ color scheme and font (to force me to get better ones)
 ctrlp! try it (saw it in chris hunt's talk, sort of like command-t and if i remember correctly it does not need ruby)
 try to change my ,t mapping to execute the last test file if the current one is not a test file
 put vimrc on github
+Ctrl-R " ou Ctrl-R * pour paste dans command line vim
+:Gread! show develop:%
