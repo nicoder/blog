@@ -116,10 +116,19 @@
     22h42 let's do some more.
     22h42 :windo diffthis
 
+20140315sat
+    08h57 in wroclaw, about to go to day 2 (or day 1) of the wroc_love.rb conference
+    09h11 wrote a piece about yesterday, let's go to today's venue
+
+20140612thu
+    03h32 wrote a review of the (paid) video course "Building an Application with CoffeeScript" by Darko Bozhinovski
+
 
 
 ideas : 
-:windo diffthis
+`cd` to go to home directory, better than `cd ~``
+C-u in the shell to delete everything before the cursor, C-k to delete what's after the cursor
+:windo diffthis (done?)
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
 :reg
@@ -146,6 +155,5 @@ advantages of (loosely) limiting line width to 80 chars (diffs, more readable, f
 color scheme and font (to force me to get better ones)
 ctrlp! try it (saw it in chris hunt's talk, sort of like command-t and if i remember correctly it does not need ruby)
 try to change my ,t mapping to execute the last test file if the current one is not a test file
-put vimrc on github
 Ctrl-R " ou Ctrl-R * pour paste dans command line vim
 :Gread! show develop:%
