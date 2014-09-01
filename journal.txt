@@ -126,17 +126,21 @@
 20140901mon
     17h00 let's look at what i wrote about wroclaw.rb back in march and push that maybe.
     17h05 mmm, should have done that sooner, too bad. will push that as is.
+    17h08 should generate a static site with jekyll or octopress, with comments by discuss. to learn how that works. and maybe help someone. and maybe motivate myself to write more/better.
     17h22 wrote about mkdir -p
 
 
 ideas : 
+ctrl-z fg to get out of vim and then back in again
+podcasts i listen to
+Ctrl-W to erase last word in the command line
 `cd` to go to home directory, better than `cd ~``
+`type myalias` to see what's behind an alias
 C-u in the shell to delete everything before the cursor, C-k to delete what's after the cursor
 :windo diffthis (done?)
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
 :reg
-podcasts i listen to
 blogging (even if no one reads you, just writing about stuff will make you research it a bit and learn something)
 reading mailing lists
 list() in php to 'destructure' array returned by function
