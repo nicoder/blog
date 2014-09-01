@@ -126,7 +126,7 @@
 20140901mon
     17h00 let's look at what i wrote about wroclaw.rb back in march and push that maybe.
     17h05 mmm, should have done that sooner, too bad. will push that as is.
-
+    17h22 wrote about mkdir -p
 
 
 ideas : 
