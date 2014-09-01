@@ -123,6 +123,10 @@
 20140612thu
     03h32 wrote a review of the (paid) video course "Building an Application with CoffeeScript" by Darko Bozhinovski
 
+20140901mon
+    17h00 let's look at what i wrote about wroclaw.rb back in march and push that maybe.
+    17h05 mmm, should have done that sooner, too bad. will push that as is.
+
 
 
 ideas : 
