@@ -129,9 +129,14 @@
     17h08 should generate a static site with jekyll or octopress, with comments by discuss. to learn how that works. and maybe help someone. and maybe motivate myself to write more/better.
     17h22 wrote about mkdir -p
 
+0902tue
+    17h58 a small one about ctrl-Z and fg to get out of vim and then back in again.
+    18h26 done. learnt some stuff about `jobs` and `bg` and `&`, cool!
+
+
+
 
 ideas : 
-ctrl-z fg to get out of vim and then back in again
 podcasts i listen to
 Ctrl-W to erase last word in the command line
 `cd` to go to home directory, better than `cd ~``
