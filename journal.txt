@@ -137,9 +137,12 @@
     20h52 a small one about Ctrl-R + " in the vim command line
     21h16 done.
 
+0904thu
+    18h32 a small one (as always) about indenting in vim insert mode
+    19h01 done.
+
 
 ideas : 
-i_CTRL-D and i_CTRL-T and i_0_CTRL-D!
 podcasts i listen to
 Ctrl-W to erase last word in the command line
 `cd` to go to home directory, better than `cd ~``
