@@ -145,12 +145,15 @@
     17h53 just have time for a real short one.  Ctrl-W to erase last word in the command line
     18h06 done.
 
+0906sat
+    18h54 let's see.
+    18h58 `cd` to go to home directory, better than `cd ~``
+    19h22 done.
+
 ideas : 
 podcasts i listen to
-`cd` to go to home directory, better than `cd ~``
 `type myalias` to see what's behind an alias
 C-u in the shell to delete everything before the cursor, C-k to delete what's after the cursor
-:windo diffthis (done?)
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
 :reg
