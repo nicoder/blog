@@ -4,7 +4,7 @@ I use vim a lot do see the differences between two files in a diff. Even more
 so these days as I use fugitive to interact with the git repository.
 
 If I have two windows open in splits and want to see the diff, `:windo diffthis`
-will launch the diff. It I want to turn the diff off : `:windo diffoff`.
+will launch the diff. If I want to turn the diff off : `:windo diffoff`.
 
 Sometimes after some changes, the diff gets out of sync, `:diffupdate` fixes
 this.
