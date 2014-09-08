@@ -158,11 +158,13 @@
 0908mon
     04h24 so C-u
     04h36 done. learnt that it does not behave the same way in bash and zsh
+    18h15 another small one : word boundaries in searches
+    18h45 done
+
 
 ideas : 
 podcasts i listen to
 `type myalias` to see what's behind an alias
-word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
 :reg
 blogging (even if no one reads you, just writing about stuff will make you research it a bit and learn something)
