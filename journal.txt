@@ -150,10 +150,18 @@
     18h58 `cd` to go to home directory, better than `cd ~``
     19h22 done.
 
+0907sun
+    19h53 another small one :
+    19h53 C-u in the shell to delete everything before the cursor, C-k to delete what's after the cursor
+    20h00 seems that C-u deletes the whole command for me.
+
+0908mon
+    04h24 so C-u
+    04h36 done. learnt that it does not behave the same way in bash and zsh
+
 ideas : 
 podcasts i listen to
 `type myalias` to see what's behind an alias
-C-u in the shell to delete everything before the cursor, C-k to delete what's after the cursor
 word boundaries in search, e.g. /\$f\> to search for `$f` variable and not get `$from` for example
 w and b
 :reg
