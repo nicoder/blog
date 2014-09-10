@@ -2,17 +2,17 @@
 
 I started listening to software development podcasts around 2008. I often find
 them fun and informative. Not being a native English speaker it is also a good
-thing to listen to people speaking English (I also listen to two podcasts in
-French).
+thing to listen to people speaking about software development in English
+(I also listen to two podcasts in French).
 
 It is a great way to find out about new technologies, to hear people sharing
 their experience doing the same kind of work as you do as a software developer.
 
 It is also a good way to learn about interesting people to then follow on
-twitter or maybe meet in real life at a conference for example.
+twitter or maybe meet in real life, at a conference for example.
 
-It often gives me inspiration to learn stuff and/or try and do something better
-with my skills.
+It often gives me inspiration to learn stuff and / or try and do something
+better with my skills.
 
 The nice thing is you can listen to them while doing something else.
 Charles Max Wood says he listens to podcasts while working.
