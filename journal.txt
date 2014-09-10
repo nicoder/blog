@@ -167,9 +167,11 @@
 
 0910wed
     04h31 added links
+    18h25 very small one : !! to repeat the previous shell command
+    18h58 interesting, the bang commands... really learnt something today 
+    18h58 now to see if I'll remember any of it.
 
 ideas : 
-!! to repeat the previous shell command
 `type myalias` to see what's behind an alias
 w and b
 :reg
