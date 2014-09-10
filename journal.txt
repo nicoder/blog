@@ -164,6 +164,7 @@
 
 ideas : 
 podcasts i listen to
+!! to repeat the previous shell command
 `type myalias` to see what's behind an alias
 w and b
 :reg
@@ -183,11 +184,7 @@ Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
 differences between $a + $b and array_merge($a, $b) in php
 :tabclose : moyen de voir ensuite le tab de gauche au lieu de celui de droite?
-how to paste a class name for example when searching with :Ack in the Vim command line
 advantages of (loosely) limiting line width to 80 chars (diffs, more readable, forces to use variables (with intention revealing name)). drawbacks: more screen height used => but then pushes you to extract functions
 :w filename.txt to save a visual selection to a file
-color scheme and font (to force me to get better ones)
-ctrlp! try it (saw it in chris hunt's talk, sort of like command-t and if i remember correctly it does not need ruby)
 try to change my ,t mapping to execute the last test file if the current one is not a test file
-Ctrl-R " ou Ctrl-R * pour paste dans command line vim
 :Gread! show develop:%
