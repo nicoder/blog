@@ -171,8 +171,11 @@
     18h58 interesting, the bang commands... really learnt something today 
     18h58 now to see if I'll remember any of it.
 
+0911thu
+    18h47 real small one : `type myalias` to see what's behind an alias
+    19h07 done.
+
 ideas : 
-`type myalias` to see what's behind an alias
 w and b
 :reg
 blogging (even if no one reads you, just writing about stuff will make you research it a bit and learn something)
