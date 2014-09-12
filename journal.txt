@@ -175,6 +175,11 @@
     18h47 real small one : `type myalias` to see what's behind an alias
     19h07 done.
 
+0912fri
+    17h48 a little piece on global variables in javascript
+    18h06 done.
+
+
 ideas : 
 w and b
 :reg
