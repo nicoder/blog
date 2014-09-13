@@ -179,6 +179,9 @@
     17h48 a little piece on global variables in javascript
     18h06 done.
 
+0913sat
+    20h03 editing a Vim macro
+    20h21 done.
 
 ideas : 
 w and b
@@ -189,7 +192,6 @@ list() in php to 'destructure' array returned by function
 php use warnings!
 code review
 :b
-editing a macro (qA and "ap/edit/"ax)
 lowercase a word with guw
 command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
 0 to go to the beginning of the line. ^ to go to the first non whitespace character of the line
