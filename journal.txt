@@ -183,19 +183,34 @@
     20h03 editing a Vim macro
     20h21 done.
 
+0914sun
+    20h33 lucky that i have a stock of ideas written down, otherwise it would
+    20h33 be hard to find a small topic every day
+    20h43 not much inspiration, let's say warnings in PHP
+    20h44 no.
+    20h46 so just nothing today.
+
+20150314sat
+    20h54 at the hotel after a day at the Wroc_love.rb conference
+    20h54 let's write some before going to the party
+    21h17 done.
+
+
 ideas : 
-w and b
+:&& => repeat last substition. @: => repeat last command line command. and then @@, just like with macros
+cat *mysql* > temp_mysql.sql
+ls some/long/path cp !!:$/some_file !!:$/new_file_name
+cp some/long/path/to/file Ctrl-W Ctrl-Y Ctrl-Y edit new file name
+history + !141 to execute the command #141
+Ctrl-R : use Ctrl-R again to find previous commands matching the string
 :reg
 blogging (even if no one reads you, just writing about stuff will make you research it a bit and learn something)
 reading mailing lists
 list() in php to 'destructure' array returned by function
 php use warnings!
 code review
-:b
-lowercase a word with guw
 command line shortcuts (alt dot, Ctrl-t, Ctrl-a, Ctrl-e, Ctrl-u, alt-b and alt-f to go back/forward by a word, Ctrl-r)
 0 to go to the beginning of the line. ^ to go to the first non whitespace character of the line
-/
 mappings (for example add a space before and after the character under the cursor. or my ,j and ,k to do page-down page-up in the next split window)
 Ctrl-I to go forward in the jump list (I remember Ctrl-O but never Ctrl-I)
 :! to launch a system command / another program. Ex: !phpunit %, !phpcs %
