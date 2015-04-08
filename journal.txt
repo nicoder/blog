@@ -195,6 +195,16 @@
     20h54 let's write some before going to the party
     21h17 done.
 
+20150325wed
+    05h07 wrote a pomodoro last week on wroc_love.rb, try to do the same now,
+    maybe finish my post
+
+20150401wed
+    05h43 still on the wroc_love.rb post
+
+20150408wed
+    06h08 still on the wroc_love.rb post, should finish, 'publish' today?
+    06h47 let's push that
 
 ideas : 
 diff <(ls ../en/) <(ls ../fr/)
