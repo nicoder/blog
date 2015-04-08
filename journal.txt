@@ -197,10 +197,16 @@
 
 
 ideas : 
+diff <(ls ../en/) <(ls ../fr/)
+peer2peer tom stuart : git add --edit, vim-gitgutter, enumerator yielder
+peer2peer camille baldock : interesting how uses red green but not much refactor. that is : says code is horrible, but leaves it that way. at first i thought she could make it better. but then do you need to? maybe not, if it's in a small method and it's tested and it works, don't really need to make it more elegant. may do that later when/if need to do it. advantage of doing that : you move on and get more features done. interesting. and as long as you have tests you can refactor that later whenever you want with a good dose of confidence that you won't break anything.
+:help list<C-D> => shows possibilities, great
+watched part of peertopeer ep. with tom stuart and reflected on video of andrew and brad writing and http2 client in go : felt so weird to see them coding for such a long time without tests, and just some manual tests once in a while, maybe a little automated test, but almost nothing. so used to see people write tests along with the code
 :&& => repeat last substition. @: => repeat last command line command. and then @@, just like with macros
 cat *mysql* > temp_mysql.sql
 ls some/long/path cp !!:$/some_file !!:$/new_file_name
 cp some/long/path/to/file Ctrl-W Ctrl-Y Ctrl-Y edit new file name
+  => variant : ls machin, cp !!$/tab ctrl-W ctrl-Y space ctrl-Y edit
 history + !141 to execute the command #141
 Ctrl-R : use Ctrl-R again to find previous commands matching the string
 :reg
@@ -220,3 +226,16 @@ advantages of (loosely) limiting line width to 80 chars (diffs, more readable, f
 :w filename.txt to save a visual selection to a file
 try to change my ,t mapping to execute the last test file if the current one is not a test file
 :Gread! show develop:%
+blog post about how conferences are tiring but get so much momentum from them (want to learn more, and have fun, ideas of things to learn, plan that out, etc). 
+blog post about meeting people at conferences, how by default you may think that listening to the talks is the most important, but even if they're nice or fun, i find i don't learn all that much from them (learn some things, that some thing exist and i could check them out, inspire), but great to meet people who do the same job more or less as i do, see their perspective, and then get to follow new people on twitter, etc. mention nice to meet people again at another conf, like this year at wrocloverb
+blog post day 3 wrocloverb (and flesh out day 1 and 2)
+blog post : not happy at all with my productivity. would like to learn to become a way better programmer (in the sense of getting things done faster)
+write a blog post about 'no self promotion' (mention the idea that if you think your content is interesting you have a duty to get the word out or your doing people a disservice)
+blog post(s) : dev frustrations when working on legacy software with a team.
+  1. when planned to work on a feature and lots of bugs need fixing (and come up one after the other) (even if fixing the bugs is interesting, feel like didn't really managed to do your work)
+    => talk about daily standup meeting, when say that did not manage to work (much if all) on what announced was going to work on the day before...
+      => same thing with retrospective, things we added in the sprint backlog but didn't manage to do
+  2. when planned to work on a feature and manage to take time for that but does not go as fast as would like it to (even if otherwise interesting/pleasurable work)
+  3. on top of that would like to do code review. on a team, takes time if you want to code review everything, if when just skimming some commits. especially if you see things that does seems alright, takes time to give feedback, or take action. but think it's useful (to learn (about other ways to code, about how the app is coded, how it evolves), to teach (if you can suggest a better way to do things, or tell them if something's wrong), to have a better product in the end (if only to fix typos in function names before they are in production and possibly used by customer specific code and thus less easy to change))
+  4. solution to that? carve out time for development of new features, for code review, for bug fixing? share the load with the team? become better at coding so less need to fix bugs? but how? :)
+blog post(s) (or book?) about productivity. why i feel my productivity is so low as a developer. how having to fix bugs all the time (and it taking quite a lot of time) affects it.
