@@ -48,3 +48,6 @@ Thank you Sam for creating Sonic Pi and inspiring me to give this talk.
 
 Thanks also to the organizers of the conference for their hard work making this
 event happen and for accepting my talk proposal.
+
+Edit: here is
+[the video](https://www.youtube.com/watch?v=5cZfqXiivdA&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=11).

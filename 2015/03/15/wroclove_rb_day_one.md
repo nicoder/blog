@@ -141,6 +141,8 @@ Thorsten told me he gave that talk before and wrote up [a thorough blog
 post](http://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/) on the
 topic.
 
+[video](https://www.youtube.com/watch?v=JIu889NJYbM&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=15)
+
 *What if clean code is a scam* by [Michal Taszycki](http://twitter.com/mehowte):
 
 I enjoyed his talk, showing us a series of tweets of people who have different
@@ -152,11 +154,15 @@ the people he cited were male, and he asked if:
 - we noticed?
 - it bothered us?
 
+[video](https://www.youtube.com/watch?v=JIu889NJYbM&index=15&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
+
 *Lightning talks*
 
 Lightning talks are always fun. I had heard about mapping the Shift keys to
 left / right parens, and I have mapped my Caps key to Ctrl, but you can also map
 it to Esc when you hit it on its own, good idea.
+
+[video](https://www.youtube.com/watch?v=4grD-1Cde08&index=13&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
 
 ## day 2
 
@@ -169,9 +175,13 @@ app. And want to try out Volt of course.
 There was a power outage at the end of his talk (fun coincidence, given the name
 of the project), so we broke for lunch early.
 
+[video](https://www.youtube.com/watch?v=FgOLP4bMX90&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=7)
+
 *Trailblazer* by [Nick Sutterer](http://twitter.com/apotonick)
 
 An interesting take on how to structure an application, and fun presentation.
+
+[video](https://www.youtube.com/watch?v=K7P7PcO8ra4&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=9)
 
 *Post Rails World panel* with Ryan, Nick and Jim Gay
 
@@ -180,12 +190,20 @@ your app's structure on top of Rails, Volt replaces Rails altogether. Jim stood
 up in place of [Luca Guidi](http://twitter.com/jodosha) of Lotus who could not
 make it to the conference (and they referenced Lotus profusely).
 
+[video](https://www.youtube.com/watch?v=X2sJMVGPZ_E&index=8&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
+
 Then came my talk, I was pleasantly surprised by how good I felt it was going
 during the talk. Especially the live-coding demo parts.
+
+[video](https://www.youtube.com/watch?v=5cZfqXiivdA&index=11&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
 
 Alberto Brandolini talked about Event Storming, finding your bottleneck and
 focusing on that, lots of nice sound bites ("Ubiquitous Body Language"). I
 enjoyed the references to various movies.
+
+[video](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=10)
+
+[lightning talks video](https://www.youtube.com/watch?v=5SpdE5doLog&index=12&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
 
 ## day 3
 
@@ -195,6 +213,8 @@ enjoyed the references to various movies.
 Particularly enjoyed his drawings on the slides (and on Twitter during the
 conference).
 
+[video](https://www.youtube.com/watch?v=al2LZ-7qX7k&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=6)
+
 *Microservices* by [Sebastian Sogamoso](http://twitter.com/sebasoga)
 
 Nice slides with pictures of the city, plus he had one of kittens since I had
@@ -202,22 +222,32 @@ said the day before during my talk that I was surprised nobody had shown any
 yet. Interesting advice: two microservices should not talk to the same database.
 Seems sensible when you think of it.
 
+[video](https://www.youtube.com/watch?v=gphGTGzas98&index=3&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
+
 *Panel "DDD/CQRS/ES"* (@ziobrando, @andrzejkrzywda, @mpraglowski, @sebasoga)
 
 I always enjoy seeing people discuss a topic like that. During the conversation
 I noticed that the panel was composed of people from Italy, Poland and Colombia,
 all conversing in English, fun.
 
+[video](https://www.youtube.com/watch?v=Rh2A96rpGpY&index=1&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD)
+
 *The Missing System* by [Jim Gay](http://twitter.com/saturnflyer)
 
 Nice quotes, I liked the talk but think I did not understand everything, I could
 have gotten more out of it, probably was a bit tired.
+
+[video](https://www.youtube.com/watch?v=huRWC7iFZxM&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=2)
 
 *ClojureScript + React.js* by [Norbert Wójtowicz](http://twitter.com/pithyless)
 
 Very special talk, felt like Norbert dumped a number of projects and
 technologies that I had for the most part never heard of. It seems worth
 exploring, but overwhelming at the same time :)
+
+[video](https://www.youtube.com/watch?v=6_mbxaRDA-s&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=4)
+
+[lightning talks video](https://www.youtube.com/watch?v=C6zIIOwVX3Q&list=PLoGBNJiQoqRAv7J_2_lZvl47_1Wg7bIPD&index=5)
 
 ## after the conference
 

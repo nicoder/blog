@@ -205,6 +205,11 @@
 20150408wed
     06h08 still on the wroc_love.rb post, should finish, 'publish' today?
     06h47 let's push that
+    06h59 done.
+
+20150415wed
+    17h26 wroc_love.rb videos are out, could add the links to my posts
+    17h40 done.
 
 ideas : 
 diff <(ls ../en/) <(ls ../fr/)
