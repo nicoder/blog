@@ -268,3 +268,4 @@ Thanks again to the organizers and participants!
 - [nerdblog day 1](http://nerdblog.pl/post/113704060879/wroclove-rb-day-1)
 - [nerdblog day 2](http://nerdblog.pl/post/113954273769/wroclove-rb-day-2)
 - [nerdblog day 3](http://nerdblog.pl/post/114403532874/wroclove-rb-day-3)
+- [monterail](http://codetunes.com/2015/wroc_love_rb-another-solid-year)
