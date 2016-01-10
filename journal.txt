@@ -211,6 +211,14 @@
     17h26 wroc_love.rb videos are out, could add the links to my posts
     17h40 done.
 
+20160110sun
+    12h32 i'd like to try to write a blog post a week, maybe on sunday.
+    12h32 oh, git add --edit, good idea.
+    12h35 meant git commit --verbose
+    12h50 ah, if added twice, also show the diff in the worktree (unstaged)
+    13h02 done.
+
+
 ideas : 
 vim : how to move quickly in command line, when typed :... ? (alt arrow, c-a, do not work)
 diff <(ls ../en/) <(ls ../fr/)
