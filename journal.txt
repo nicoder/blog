@@ -218,9 +218,13 @@
     12h50 ah, if added twice, also show the diff in the worktree (unstaged)
     13h02 done.
 
+20160117sun
+    17h01 an article on other ways to move on the Vim command line than the arrow keys
+    17h21 did not know how to do it and felt the need, so good thing to learn.
+    17h37 done.
+
 
 ideas : 
-vim : how to move quickly in command line, when typed :... ? (alt arrow, c-a, do not work)
 diff <(ls ../en/) <(ls ../fr/)
 peer2peer tom stuart : git add --edit, vim-gitgutter, enumerator yielder
 peer2peer camille baldock : interesting how uses red green but not much refactor. that is : says code is horrible, but leaves it that way. at first i thought she could make it better. but then do you need to? maybe not, if it's in a small method and it's tested and it works, don't really need to make it more elegant. may do that later when/if need to do it. advantage of doing that : you move on and get more features done. interesting. and as long as you have tests you can refactor that later whenever you want with a good dose of confidence that you won't break anything.
