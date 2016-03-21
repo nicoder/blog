@@ -228,6 +228,23 @@
     11h36 used it yesterday
     11h51 done.
 
+20160131sun
+    17h01 no idea really, nothing in the list appeals to me right now.
+
+20160312sat
+    09h52 at the wroc_love.rb conference, write something about day one (yesterday)
+    10h07 good thing i did now, i would have forgotten a lot.
+
+20160313sun
+    10h05 try and write something quickly about the second day before the third one starts
+    10h25 done.
+
+20160314mon
+    05h50 write something about day three
+    06h04 ok.
+
+20160321mon
+    06h38 recorded a screencast of my wroc_love.rb sonic pi kata, will write a short post about it and share it
 
 ideas : 
 :vimgrep ? for when do not have ack on a server, like windows for example. at least :cn and :cp. and **/*.md. C-o / C-i. close the search and go back to where i was before it ?
@@ -262,7 +279,6 @@ try to change my ,t mapping to execute the last test file if the current one is 
 :Gread! show develop:%
 blog post about how conferences are tiring but get so much momentum from them (want to learn more, and have fun, ideas of things to learn, plan that out, etc). 
 blog post about meeting people at conferences, how by default you may think that listening to the talks is the most important, but even if they're nice or fun, i find i don't learn all that much from them (learn some things, that some thing exist and i could check them out, inspire), but great to meet people who do the same job more or less as i do, see their perspective, and then get to follow new people on twitter, etc. mention nice to meet people again at another conf, like this year at wrocloverb
-blog post day 3 wrocloverb (and flesh out day 1 and 2)
 blog post : not happy at all with my productivity. would like to learn to become a way better programmer (in the sense of getting things done faster)
 write a blog post about 'no self promotion' (mention the idea that if you think your content is interesting you have a duty to get the word out or your doing people a disservice)
 blog post(s) : dev frustrations when working on legacy software with a team.
