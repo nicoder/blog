@@ -247,6 +247,24 @@
     06h38 recorded a screencast of my wroc_love.rb sonic pi kata, will write a short post about it and share it
 
 ideas : 
+
+short post about f/fixup when git rebase -i (always used s/squash, but almost never need the second commit message => should really use fixup)
+mini blog post $ git diff 95cbc39..master | vim -
+  very short post about redirecting terminal output to `vim -`
+todo blog on Array.from to then use forEach on return type of document.getElementsByClassName
+  learnt about it here http://stackoverflow.com/questions/3871547/js-iterating-over-result-of-getelementsbyclassname-using-array-foreach
+  => learn more about both
+todo blog about `git rebase -i --root` because `git rebase -i commitsha^` does not work with the first commit
+  rarely useful, but "needed it" today to avoid adding a useless "tidy" commit
+  => learnt about it here : http://stackoverflow.com/questions/598672/squash-the-first-two-commits-in-git
+todo blog (and use) : Ctrl-F when in vim command line mode opens a buffer so can edit it. then Ctrl-C (or :q?) brings back to the normal command line
+  http://stackoverflow.com/questions/2075569/how-can-i-move-around-in-the-vim-command-line
+todo blog about vim-repeat (et mon use case pour `,w`)
+TODO blog : `@:` repeats the last command (always forget)
+blog : did i write about % ? super useful when navigating json or c-style functions with braces, or parentheses. maybe already wrote, check => 20130913 on dirait
+tmux rename current window : `<C-j> ,` (because remapped <C-a> to <C-j>)
+blog about git add -N new_file git add -i (http://stackoverflow.com/questions/6436681/how-to-stage-only-part-of-a-new-file-with-git)
+blog about DAS, say what i like about it.
 :vimgrep ? for when do not have ack on a server, like windows for example. at least :cn and :cp. and **/*.md. C-o / C-i. close the search and go back to where i was before it ?
 diff <(ls ../en/) <(ls ../fr/)
 peer2peer tom stuart : git add --edit, vim-gitgutter, enumerator yielder
