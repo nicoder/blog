@@ -246,6 +246,11 @@
 20160321mon
     06h38 recorded a screencast of my wroc_love.rb sonic pi kata, will write a short post about it and share it
 
+20170301wed
+    04h48 try a short blog post every day in march.
+    05h06 today: git checkout -p
+    05h13 done.
+
 ideas : 
 
 short post about f/fixup when git rebase -i (always used s/squash, but almost never need the second commit message => should really use fixup)
