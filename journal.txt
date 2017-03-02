@@ -251,9 +251,14 @@
     05h06 today: git checkout -p
     05h13 done.
 
+20170302thu
+    04h36 short post about f/fixup when git rebase -i
+    04h36 (always used s/squash, but almost never need the second commit message
+    04h36 => should really use fixup)
+    04h55 done.
+
 ideas : 
 
-short post about f/fixup when git rebase -i (always used s/squash, but almost never need the second commit message => should really use fixup)
 mini blog post $ git diff 95cbc39..master | vim -
   very short post about redirecting terminal output to `vim -`
 todo blog on Array.from to then use forEach on return type of document.getElementsByClassName
