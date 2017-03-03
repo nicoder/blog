@@ -257,10 +257,13 @@
     04h36 => should really use fixup)
     04h55 done.
 
+20170303fri
+    04h32 very short post about redirecting terminal output to `vim -`
+    04h52 done.
+
 ideas : 
 
-mini blog post $ git diff 95cbc39..master | vim -
-  very short post about redirecting terminal output to `vim -`
+diff of two git shows (to check a cherry-pick after fixing conflicts for example, for example when a file was moved and git was not able to apply the changes on its own)
 todo blog on Array.from to then use forEach on return type of document.getElementsByClassName
   learnt about it here http://stackoverflow.com/questions/3871547/js-iterating-over-result-of-getelementsbyclassname-using-array-foreach
   => learn more about both
