@@ -261,6 +261,15 @@
     04h32 very short post about redirecting terminal output to `vim -`
     04h52 done.
 
+20170304sat
+    06h11 short post about Ctrl-F in vim command line
+    06h14 i already mentionned it in my 2016/01/17/moving_in_vim_command_line.md post...
+    06h14 but had not internalized it yet it seems :)
+
+20170307
+    04h35 short post on using tomato one and parts of the Pomodoro technique
+    05h02 done.
+
 ideas : 
 
 diff of two git shows (to check a cherry-pick after fixing conflicts for example, for example when a file was moved and git was not able to apply the changes on its own)
