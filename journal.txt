@@ -278,10 +278,12 @@
     07h39 exclude a directory from git diff
     08h06 done.
 
+20171224
+    16h15 git status -uno
+    16h29 cleared things up, cool. thought -unormal and -uno were the same, but not at all
 
 ideas :
 
-git status -uno https://git-scm.com/docs/git-status (e.g. temporarily have untracked dir with lots of files, would like to not see it too much in git status output => git status -unormal or -uno)
 git diff --name-only master...my-branch to get the list of modified files http://stackoverflow.com/questions/1552340/how-to-list-the-file-names-only-that-changed-between-two-commits
 cat > file.txt <Enter> bla bla bla <C-D> (saw it a couple of times then read it again in Reuven's newsletter)  https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/3/html/Step_by_Step_Guide/s1-navigating-usingcat.html cat >> file.txt then adds to the file
 puts (ring 1, 2, 3).method(:take).source_location (almost told someone on the Sonic Pi mailing list that `take` was from the Ruby Enumerable module, but that line of code showed me it was defined by Sonic Pi)
