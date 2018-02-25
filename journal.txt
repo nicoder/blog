@@ -282,6 +282,10 @@
     16h15 git status -uno
     16h29 cleared things up, cool. thought -unormal and -uno were the same, but not at all
 
+20180225sunday
+    07h50 ctrl-p shortcuts
+    08h21 done. will try to use ctrl-z / ctrl-o to open more than one file at a time
+
 ideas :
 
 git diff --name-only master...my-branch to get the list of modified files http://stackoverflow.com/questions/1552340/how-to-list-the-file-names-only-that-changed-between-two-commits
